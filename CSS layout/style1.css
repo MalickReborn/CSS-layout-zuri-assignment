@@ -9,8 +9,8 @@
     width:5O%;
     font-family : Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
     font-size: 13px;
-      -webkit-font-smoothing: antialiased;
-}
+    -webkit-font-smoothing : antialiased;
+  }
 main{
     background-color : white;
     margin:auto;
@@ -23,7 +23,7 @@ main{
   grid-auto-flow: column;
   }
 .grille{
-      max-width: 1300px;
+      max-width: 2000px;
       width: 80%;
       height:auto;
       margin:30px auto;
